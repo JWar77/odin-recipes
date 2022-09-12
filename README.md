@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first bigger HTML Project during my run through of the Odin Project. Using this project I will demonstrate my knowledge of the basic HTML Tags and their use in order to build a website showing delicious recipes.
