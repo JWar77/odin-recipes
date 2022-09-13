@@ -1,0 +1,50 @@
+* {
+    background-color: lightcyan;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: 'Brush Script MT', Georgia, sans-serif;
+    text-align: center;
+}
+
+#index-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.header-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+h2 {
+    font-size: 30px;
+    color: green;
+    font-weight: 600;
+
+}
+
+.description {
+    background-color: gray;
+    color: white;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    box-shadow: 10px 10px lightgray;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+li {
+    padding-left: 10px;
+    color: royalblue;
+    font-weight: 600;
+}
