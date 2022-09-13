@@ -2,6 +2,10 @@
     background-color: lightcyan;
 }
 
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+}
 h1 {
     font-size: 50px;
     font-style: 'Brush Script MT', Georgia, sans-serif;
